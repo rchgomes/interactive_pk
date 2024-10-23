@@ -114,6 +114,3 @@ dependencies:
   - zeromq=4.3.4=hbdafb3b_1
   - zipp=3.10.0=pyhd8ed1ab_0
   - zstd=1.5.2=h8128057_4
-  - pip:
-      - classy==3.2.5
-prefix: /Users/gchgomes/miniconda3/envs/basic_env
