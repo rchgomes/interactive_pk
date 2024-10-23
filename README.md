@@ -19,15 +19,9 @@ conda env create -f class_env.yml
 conda activate basic_env
 ```
 
-### Open the Jupyter Notebook:
+### Manual CLASS Installation:
 
-```bash
-jupyter notebook Interactive_pk.ipynb
-```
-
-### Manual CLASSY Installation:
-
-If you encounter problems with CLASSY when installing the .yml file, run the following commands:
+To install the python module classy, you should install the CLASS code first. To do so, run the following commands:
 
 ```bash
 git clone https://github.com/lesgourg/class_public.git 
@@ -37,4 +31,10 @@ make
 cd python 
 python setup.py install 
 python setup.py install --user
+```
+
+### Now you can open and use the Jupyter Notebook:
+
+```bash
+jupyter notebook Interactive_pk.ipynb
 ```
