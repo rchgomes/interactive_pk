@@ -25,7 +25,7 @@ conda activate basic_env
 jupyter notebook Interactive_pk.ipynb
 ```
 
-### Troubleshooting CLASSY Installation:
+### Manual CLASSY Installation:
 
 If you encounter problems with CLASSY when installing the .yml file, run the following commands:
 
