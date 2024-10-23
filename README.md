@@ -1,7 +1,7 @@
 
 # Interactive Wrapper for the Class p(k) Computation
 
-This repository contains a Jupyter notebook and an environment file for your cosmology project.
+This repository contains a Jupyter notebook and an environment file for the notebook to run properly.
 
 ## Getting Started
 
