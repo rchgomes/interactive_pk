@@ -1,5 +1,5 @@
 
-# Interactive Wrapper for the Class p(k) Computation
+# Interactive Wrapper for the CLASS p(k) Computation
 
 This repository contains a Jupyter notebook and an environment file for the notebook to run properly.
 
